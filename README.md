@@ -1,7 +1,7 @@
 # Coding Sample (Stata)
 
 **Author:** Michel Wachsmann (FGV EESP)  
-**Date:** March 2026
+**Last Updated:** March 2026
 
 ## Overview
 
